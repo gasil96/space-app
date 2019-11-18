@@ -1,6 +1,2 @@
-# space-app
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
+# SpaceAPP
 Webview do sistema SpaceTattooStudio
