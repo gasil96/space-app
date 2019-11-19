@@ -1,3 +1,7 @@
 # space-app
 
-Webview do sistema SpaceTattooStudio
+Webview do sistema SpaceTattooStudio.
+
+## Tecnologias Utilizadas
+
+- Flutter
