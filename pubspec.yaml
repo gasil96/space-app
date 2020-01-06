@@ -23,6 +23,7 @@ dependencies:
   flutter_webview_plugin: 0.3.0+2
   webview_flutter: 0.2.0
   url_launcher: ^5.2.5
+  flutter_launch: ^0.2.0
 
 dev_dependencies:
   flutter_test:
